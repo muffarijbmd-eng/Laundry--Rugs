@@ -1,2 +1,1 @@
-# Laundry--Rugs
-Web app which change your center  
+# Luandry--Rugs
